@@ -1,0 +1,5 @@
+[info]
+title=Linter for JSON, using python-json
+desc=Linter for CudaLint, adds support for JSON lexer, using Python json-module
+type=cudatext-plugin
+subdir=cuda_lint_json
